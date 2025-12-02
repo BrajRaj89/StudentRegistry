@@ -15,7 +15,7 @@ A mini-project built to highlight my full-stack Java web development skills usin
 ---
 ##  Project Structure
 ```
-STUDENT-HUB/
+StudentRegistry/
 │
 ├── css/                 # Stylesheets
 │
@@ -88,20 +88,20 @@ String password = "yourpassword";
 
 ## Run Application
  1. Clone the Repository
-    git clone  https://github.com/BrajRaj89/StudentHub.git
+    git clone  https://github.com/BrajRaj89/StudentRegistry.git
  2. Create the Database
  3. Place the project folder in tomcat webapps/ folder
  4. Start Tomcat Server
- 5. Open browser type http://localhost:8080/StudentHub
+ 5. Open browser type http://localhost:8080/StudentRegistry
     
 ## Screenshots
 
-https://github.com/BrajRaj89/StudentHub/blob/main/assets/screenshots/Homepage.png
-https://github.com/BrajRaj89/StudentHub/blob/main/assets/screenshots/HomepageBottom.png
-https://github.com/BrajRaj89/StudentHub/blob/main/assets/screenshots/Quiz.png
-https://github.com/BrajRaj89/StudentHub/blob/main/assets/screenshots/Register.png
-https://github.com/BrajRaj89/StudentHub/blob/main/assets/screenshots/Available.png
-https://github.com/BrajRaj89/StudentHub/blob/main/assets/screenshots/AddStudent.png
+https://github.com/BrajRaj89/StudentRegistry/blob/main/assets/screenshots/Homepage.png
+https://github.com/BrajRaj89/StudentRegistry/blob/main/assets/screenshots/HomepageBottom.png
+https://github.com/BrajRaj89/StudentRegistry/blob/main/assets/screenshots/Quiz.png
+https://github.com/BrajRaj89/StudentRegistry/blob/main/assets/screenshots/Register.png
+https://github.com/BrajRaj89/StudentRegistry/blob/main/assets/screenshots/Available.png
+https://github.com/BrajRaj89/StudentRegistry/blob/main/assets/screenshots/AddStudent.png
 
 
 
